@@ -1,2 +1,4 @@
 fix the bug
+hello
+hi
 
